@@ -2,7 +2,7 @@
 
 [![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=soluciones2000 "Resumen")](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=soluciones2000 "Resumen")
 <br/>
-[![Tech Skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=soluciones2000 "Habilidades técnicas")](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=soluciones2000 "Habilidades técnicas")
+[![Portafolio](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=soluciones2000 "Portafolio")](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=soluciones2000 "Portafolio")
 <!--
 **soluciones2000/soluciones2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
