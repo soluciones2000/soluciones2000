@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hola 👋
 
-<codersrank-summary username="soluciones2000"></codersrank-summary>
+[![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=soluciones2000 "Resumen")](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=soluciones2000 "Resumen")
 <br/>
-<codersrank-skills-chart username="soluciones2000"></codersrank-skills-chart>
-
+[![Tech Skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=soluciones2000 "Habilidades técnicas")](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=soluciones2000 "Habilidades técnicas")
 <!--
 **soluciones2000/soluciones2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
