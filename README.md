@@ -1,5 +1,5 @@
 ### Hola 👋
-
+<!--
 Aquí puedes ver un resumen de mis habilidades:<br/>
 [![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=soluciones2000 "Resumen")](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=soluciones2000 "Resumen")
 <br/>
@@ -8,7 +8,7 @@ Esta es mi experiencia laboral:<br/>
 <br/>
 Este es mi proyecto más reciente:<br/>
 [![Portafolio](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=soluciones2000 "Portafolio")](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=soluciones2000 "Portafolio")
-
+-->
 <!--
 **soluciones2000/soluciones2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
